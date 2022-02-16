@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Shrikhand';
+    src: url('shrikhand/Shrikhand-Regular.otf');
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('roboto/Roboto-Black.ttf');
+}
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 600px)
+{
+    h1 {
+        text-align: center;
+    }
+    
+}
+
+
